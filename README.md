@@ -1,10 +1,11 @@
 Programmer in C#, Java, JS, and multiple other languages. 💻
+WIP game developer. 🎮
 
 Co-founder of:
 - [angxlcube](https://github.com/angxlcube), 
-- [All Of Us Mods](https://github.com/All-Of-Us-Mods/),
 - [Kyanite Mods](https://github.com/KyaniteMods)
 
+Mod developer for the Sidemen Among Us YouTube series.
 Open for commissions, DM on Discord. 🎖️
 
 # Socials
