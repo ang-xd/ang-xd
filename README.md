@@ -8,7 +8,5 @@ Co-founder of:
 Mod developer for Deeper and Darker (50m+ downloads on CurseForge)<br>
 Mod developer for the Sidemen Among Us YouTube series.
 
-Open for commissions, DM on Discord. 🎖️
-
 # Socials
 Discord: angxdd
