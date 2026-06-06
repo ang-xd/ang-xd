@@ -2,7 +2,7 @@ Programmer in C#, Java, JS, and multiple other languages. 💻
 WIP game developer. 🎮
 
 Co-founder of:
-- [Ethernal Games](https://github.com/ethernal-games), 
+- [Ethernal Games](https://github.com/ethernal-games)
 - [Kyanite Mods](https://github.com/KyaniteMods)
 - [All Of Us Mods](https://github.com/All-Of-Us-Mods)
 
